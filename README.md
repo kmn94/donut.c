@@ -1,2 +1,2 @@
 # donut.c
-bagaimana cara membuat donut.c
+bagaimana donut.c bekerja 
